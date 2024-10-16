@@ -1,0 +1,34 @@
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+.container {
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+
+/* Home Page start */
+.container > .home-page {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(209, 209, 209);
+}
+/* Home Page end */
+
+/* About Page start */
+.container > .about-page {
+    width: 100%;
+    height: 100%;
+    background-color: lightblue;
+}
+/* About Page end */
+
+/* Contact Page start */
+.container > .contact-page {
+    width: 100%;
+    height: 100%;
+    background-color: lightcoral;
+}
+/* Contact Page end */
